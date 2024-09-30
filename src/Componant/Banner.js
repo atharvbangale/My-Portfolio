@@ -70,7 +70,7 @@ useEffect(() => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
 
                     <span className="tag" > Welcome to Innovative Solutions, Inspiring Designs</span>
-                    <h1>{ `Hiee I'm Atharv, a  `} <span className="wrap" >{text} </span> </h1>
+                    <h1>{ `Hi I'm Atharv, a  `} <span className="wrap" >{text} </span> </h1>
                     <p className="p">As a Full Stack Developer, I specialize in React.js and Tailwind CSS for front-end development, and Node.js and Express for back-end solutions. I am proficient in MongoDB and SQL for data management.
 
 Additionally, I have strong skills in Python, Java, and JavaScript, alongside a solid understanding of Data Structures & Algorithms. I also work with Solidity for smart contracts and have a passion for Data Visualization and Machine Learning.</p>
